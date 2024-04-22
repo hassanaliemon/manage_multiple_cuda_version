@@ -14,7 +14,7 @@ wget https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/
 ```
 
 ## Step 2
-Go the downloaded folder location and open a terminal and run the commoand
+Go the downloaded folder location and open a terminal and run the command
 
 ```
 chmod +x <downloaded_run_file_name>
